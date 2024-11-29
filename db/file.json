@@ -1,0 +1,39 @@
+{
+  "restaurant": [
+    {
+      "id": 0,
+      "name": "MacDonalds",
+      "email": "mac@gmail.com",
+      "address": "Delhi",
+      "rating": "4"
+    },
+    {
+      "id": 1,
+      "name": "Haldiram",
+      "address": "Gudgaon",
+      "rating": "4",
+      "email": "haldiram@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Apna Sweet",
+      "email": "ap@gmail.com",
+      "address": "Jabalpur",
+      "rating": "4.3"
+    },
+    {
+      "id": 3,
+      "name": "Jain sweet",
+      "email": "jay@gmail.com",
+      "address": "Pune",
+      "rating": "4.8"
+    },
+    {
+      "id": "bd70",
+      "name": "Tinku's Cafe",
+      "email": "tc@gmail.com",
+      "address": "Indore",
+      "rating": "4.9"
+    }
+  ]
+}
