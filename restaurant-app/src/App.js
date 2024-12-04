@@ -36,7 +36,7 @@ function App() {
           <Route path="/create" element={<RestaurantCreate />} />
           <Route path="/search" element={<RestaurantSearch />} />
           <Route path="/detail" element={<RestaurantDetail />} />
-          <Route path="/update" element={<RestaurantUpdate />} />
+          <Route path="/update/:id" render={props=>(<RestaurantUpdate {...props} />)} ></Route>
         </Routes>
       </Router>
     </div>
